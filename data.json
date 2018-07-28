@@ -1,0 +1,45 @@
+{
+	"details":{
+		"name":"Rohini",
+		"image":"pic.png",
+		"phone":"9876543210",
+		"email":"rohini539@gmail.com"
+	},
+	"education":[
+		{
+
+			"co":"B.tech,(CSE)",
+			"college":"MIC College",
+			"Per":"78%"
+	    },
+	    {
+	    	"co":"Intermediate",
+			"college":"Sri chaitanya jr.College",
+			"Per":"88%"
+	    },
+	    {
+	    	"co":"SSC",
+			"college":"ST.Joseph's EM High School",
+			"Per":"98%"
+	    }
+
+    ],
+    "skills":[
+    	{
+    	"title":"Programming Languages ",
+    	"output":[
+    		 "C","C++","Java","Python"
+    		]
+    },
+    {
+    	"title":"Operating Systems ",
+    	"output":[
+    	    "Windows","Linux","MAC"
+    	]
+    }
+
+    ],
+    "career":{
+    	"co":"To associate with organisation and utilize my technical skills to the growth of our company.I am here to develop my knowledge and it is used for our organization"
+    }
+}
